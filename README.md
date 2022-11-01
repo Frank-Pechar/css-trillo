@@ -6,13 +6,13 @@ Course Coding Project I Completed.
 
 App can be run from: https://frank-pechar-trillo.netlify.app/
 
-- ARCHITECTURE:
+ARCHITECTURE:
  
-- SCSS: 7 – 1 Pattern for Folders and Files
-- BEM Naming convention 
-- Flexbox Layouts 
+SCSS: 7 – 1 Pattern for Folders and Files
+BEM Naming convention 
+Flexbox Layouts 
 
-- IMPLEMENTED the FOLLOWING in SASS(SCSS) and CSS:
+IMPLEMENTED the FOLLOWING in SASS(SCSS) and CSS:
 
 - responsive flexbox layouts
 - CSS custom properties
