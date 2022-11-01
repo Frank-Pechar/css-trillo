@@ -12,7 +12,7 @@ SCSS: 7 – 1 Pattern for Folders and Files
 BEM Naming convention 
 Flexbox Layouts 
 
-IMPLEMENTED the FOLLOWING in SASS(SCSS) and CSS:
+IMPLEMENTED the FOLLOWING in SASS(SCSS):
 
 - responsive flexbox layouts
 - CSS custom properties
