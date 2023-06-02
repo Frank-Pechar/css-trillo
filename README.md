@@ -1,4 +1,6 @@
-# Trillo - Advanced CSS Course Project
+# Trillo Project - Hotel & Travel Website
+Advanced CSS Course Project
+#
 
 Hotel and Travel Website
 
