@@ -1,20 +1,18 @@
 # Trillo Project - Hotel & Travel Website
-Advanced CSS Course Project
-#
+# Advanced CSS - SASS/SCSS Course Project
+## Description of App Functionality, Features, and Methods
 
-Hotel and Travel Website
+Advanced CSS coding project I completed from Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More by Jonas Schmedtmann.
 
-Course Coding Project I Completed.
+App can be run from: https://frank-pechar-css-trillo.netlify.app
 
-App can be run from: https://frank-pechar-trillo.netlify.app/
-
-ARCHITECTURE:
+## This App Uses CSS - SASS/SCSS Features Such As:
  
-SCSS: 7 – 1 Pattern for Folders and Files
-BEM Naming convention 
-Flexbox Layouts 
+- Architecture: SCSS: 7 – 1 Pattern for Folders and Files
+- BEM Naming convention 
+- Flexbox Layouts 
 
-IMPLEMENTED the FOLLOWING in SASS(SCSS) and CSS:
+## Coding Methods and Features Used:
 
 - responsive flexbox layouts
 - CSS custom properties
