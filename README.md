@@ -16,7 +16,7 @@ This App Showcases Various CSS / SASS Features and Techniques such as: Extensive
 - Navigation menu with sliding hover animation
 - Hover over various buttons, text, and images for animation effects
 
-## CSS - SASS/SCSS Features and Methods Used
+## CSS - SASS/SCSS Properties, Functions, Features and Methods Used
 
 - responsive flexbox layouts
 - CSS custom properties
