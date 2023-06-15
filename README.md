@@ -1,5 +1,5 @@
-# Trillo Project - Hotel & Travel Website
-# Advanced CSS - SASS/SCSS Course Project
+# Hotel and Travel Website
+# Advanced CSS - SASS/SCSS Project
 ## Description of App Functionality, Features, and Methods
 
 Advanced CSS coding project I completed from Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More by Jonas Schmedtmann.
