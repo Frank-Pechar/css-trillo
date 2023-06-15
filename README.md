@@ -18,13 +18,12 @@ This App Showcases Various CSS / SASS Features and Techniques such as: Extensive
 
 ## CSS - SASS/SCSS Properties, Functions, Features and Methods Used
 
-- responsive flexbox layouts
+- Responsive flexbox layouts
 - CSS custom properties
 - SVG icons
 - HTML SVG Sprites
-- multiple transition properties with different settings 
+- Multiple transition properties with different settings 
+- Infinite animation
+- Navigation animation effects
+- margin-left/right: auto with flexbox for special spacing
 - currentColor
-- infinite animation
-- margin-left/right: auto with flexbox for special spacing 
-- mask-image/size to clip SVG element
-- navigation animation effects  
