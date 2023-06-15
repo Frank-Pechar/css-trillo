@@ -8,7 +8,7 @@ App can be run from: https://frank-pechar-css-trillo.netlify.app
 
 ## App Description 
 
-This App Showcases Various CSS / SASS Features and Techniques such as: Extensive Use of Flexbox Layouts and Formatting. SCSS: 7 – 1 Architecture Pattern for Folders and Files. BEM Naming convention. Responsive Flexbox Layouts and Sizing for: Images, Fonts and Text Elements &bull; A Wide Variety of Styling and Animated Effects.
+This App Showcases Various CSS / SASS Features and Techniques such as: Extensive Use of Flexbox Layouts and Formatting. SCSS: 7 – 1 Architecture Pattern for Folders and Files. BEM Naming convention. Responsive Flexbox Layouts and Sizing for: Images, Text and Styling Elements &bull; A Wide Variety of Styling and Animated Effects.
 
 ## App Functionality
 
