@@ -1,18 +1,22 @@
 # Hotel and Travel Website
-# Advanced CSS - SASS/SCSS Project
+## Advanced CSS - SASS/SCSS Project
 ## Description of App Functionality, Features, and Methods
 
 Advanced CSS coding project I completed from Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More by Jonas Schmedtmann.
 
 App can be run from: https://frank-pechar-css-trillo.netlify.app
 
-## This App Uses CSS - SASS/SCSS Features Such As:
- 
-- Architecture: SCSS: 7 – 1 Pattern for Folders and Files
-- BEM Naming convention 
-- Flexbox Layouts 
+## App Description 
 
-## Coding Methods and Features Used:
+This App Showcases Various CSS / SASS Features and Techniques such as: Extensive Use of Flexbox Layouts and Formatting. SCSS: 7 – 1 Architecture Pattern for Folders and Files. BEM Naming convention. Responsive Flexbox Layouts and Sizing for: Images, Fonts and Text Elements &bull; A Wide Variety of Styling and Animated Effects.
+
+## App Functionality
+
+- Click Location, Show all, or Book Now - Buttons cause an infinite pulse animation
+- Navigation menu with sliding hover animation
+- Hover over various buttons, text, and images for animation effects
+
+## CSS - SASS/SCSS Features and Methods Used
 
 - responsive flexbox layouts
 - CSS custom properties
