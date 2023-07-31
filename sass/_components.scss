@@ -280,7 +280,7 @@
   &__rating-average {
     font-size: 2.25rem;
     font-weight: 300;
-    margin-bottom: -3px;
+    // margin-bottom: -3px;
 
     @media only screen and (max-width: $bp-small) {
       font-size: 1.8rem;
@@ -288,12 +288,9 @@
   }
 
   &__rating-count {
-    font-size: 0.8rem;
+    font-size: 1rem;
     text-transform: uppercase;
-
-    @media only screen and (max-width: $bp-small) {
-      font-size: 0.5rem;
-    }
+    text-align: center;
   }
 }
 
@@ -448,7 +445,7 @@
   }
 
   &__user-name {
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     font-weight: 600;
     text-transform: uppercase;
     border-radius: 50%;
@@ -456,7 +453,7 @@
   }
 
   &__user-date {
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: var(--color-grey-dark-3);
   }
 
